@@ -1,6 +1,6 @@
 # yandex-practicum-projects
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии ""Специалист по Data Science".
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии "Специалист по Data Science".
 
 Проекты пронумерованы в порядке их выполнения.
 
@@ -16,7 +16,10 @@
 | [8.Предсказание стоимости жилья (spark)](prediction_cost_housing) | Предсказание стоимости жилья в Калифорнии средствами pyspark. | *pyspark*, *matplotlib*, *pandas*, *seaborn*, *numpy* |
 | [9.Защита персональных данных клиентов](personal_data_protection) | Преобразование признаков с целью защиты персональной информации. | *scipy*, *sklearn*, *numpy*, *pandas*, *seaborn* |
 | [10.Определение стоимости автомобилей](car_price) | Построение модели регрессии для определения стоимости автомобилей. | *lightgbm*, *catboost*, *xgboost*, *sklearn*, *pandas*, *seaborn* |
-| [11.Анализ рисков ДТП](accident_risk_analysis) | Предсказание рисков ДТП по выбранному маршруту движения. | *lightgbm*, *catboost*, *optuna*, *sklearn*, *pandas*, *seaborn*, *matplotlib*, *numpy*, *skfeature-chappers*, *sqlalchemy* |
+| [11.SQL-запросы](sql_queries) | Написание sql-запросов и анализ таблиц. | *sqlalchemy*, *matplotlib*, *pandas*, *seaborn* |
+| [12.Прогнозирование температуры звезды](prediction_stars_temperature) | Разработка нейронной сети для предсказания температуры на поверхности звезд.
+. | *torch*, *skorch*, *sklearn*, *seaborn*, *pandas*, *optuna*, *numpy*, *matplotlib* |
+| [13.Анализ рисков ДТП](accident_risk_analysis) | Предсказание рисков ДТП по выбранному маршруту движения. | *lightgbm*, *catboost*, *optuna*, *sklearn*, *pandas*, *seaborn*, *matplotlib*, *numpy*, *skfeature-chappers*, *sqlalchemy* |
 
 ## Примечание
 
