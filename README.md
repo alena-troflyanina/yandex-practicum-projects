@@ -19,6 +19,8 @@
 | [11.SQL-запросы](sql_queries) | Написание sql-запросов и анализ таблиц. | *sqlalchemy*, *matplotlib*, *pandas*, *seaborn* |
 | [12.Прогнозирование температуры звезды](prediction_stars_temperature) | Разработка нейронной сети для предсказания температуры на поверхности звезд.| *torch*, *skorch*, *sklearn*, *seaborn*, *pandas*, *optuna*, *numpy*, *matplotlib* |
 | [13.Анализ рисков ДТП](accident_risk_analysis) | Предсказание рисков ДТП по выбранному маршруту движения. | *lightgbm*, *catboost*, *optuna*, *sklearn*, *pandas*, *seaborn*, *matplotlib*, *numpy*, *skfeature-chappers*, *sqlalchemy* |
+| [14.Прогнозирование временных рядов](time_series_analysis) | Прогнозирование количества заказов такси в аэропорт на следующий час. | *scipy*, *statsmodels*, *sklearn*, *pandas*, *seaborn*, *matplotlib*, *numpy*, *optuna* |
+| [15.Классификатор токсичности комментариев](toxic_comments) | Обучение модели классификации на определение токсичных комментариев. | *catboost*, *gensim*, *nltk*, *numpy*, *optuna*, *pandas*, *sklearn*, *spacy*, *torch*, *transformers* |
 
 ## Примечание
 
